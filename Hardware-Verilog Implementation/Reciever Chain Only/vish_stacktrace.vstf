@@ -1,0 +1,8 @@
+# Current time Thu Jun 20 16:30:55 2024
+# Program = vish
+# Id = "10.6c"
+# Version = "2017.07"
+# Date = "Jul 26 2017"
+# Platform = win32
+
+Exception c0000005 has occurred at address 576dc952. Traceback:

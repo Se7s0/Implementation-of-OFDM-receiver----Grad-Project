@@ -1,0 +1,154 @@
+# vsim TB -c -do "vsim.do" -l vsim.log "+nowarnTSCALE" 
+# Start time: 23:56:15 on Mar 11,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.TB(fast)
+# do vsim.do
+# add wave -r /*
+# run -all
+# ** Note: $finish    : stim.v(29)
+#    Time: 4490 ns  Iteration: 1  Instance: /TB
+# 1
+# Break at stim.v line 29
+# quit
+
+quit -sim
+# End time: 23:57:04 on Mar 11,2024, Elapsed time: 0:00:49
+# Errors: 0, Warnings: 0
+vsim -c -l vsim.log +nowarnTSCALE work.TB
+# vsim -c -l vsim.log "+nowarnTSCALE" work.TB 
+# Start time: 23:57:44 on Mar 11,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading work.TB(fast)
+# Optimization canceled
+# Break key hit
+quit -sim
+# End time: 23:58:13 on Mar 11,2024, Elapsed time: 0:00:29
+# Errors: 1, Warnings: 0
+vsim -c -l vsim.log +nowarnTSCALE work.TB -voptargs=+acc
+# vsim -c -l vsim.log "+nowarnTSCALE" work.TB -voptargs="+acc" 
+# Start time: 23:58:22 on Mar 11,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading work.TB(fast)
+# Loading work.FFT(fast)
+# Loading work.SdfUnit(fast)
+# Loading work.Butterfly(fast)
+# Loading work.DelayBuffer(fast)
+# Loading work.Butterfly(fast__1)
+# Loading work.DelayBuffer(fast__1)
+# Loading work.Twiddle(fast)
+# Loading work.Multiply(fast)
+# Loading work.SdfUnit(fast__1)
+# Loading work.DelayBuffer(fast__2)
+# Loading work.DelayBuffer(fast__3)
+# Loading work.SdfUnit(fast__2)
+# Loading work.DelayBuffer(fast__4)
+# Loading work.DelayBuffer(fast__5)
+add wave -position insertpoint sim:/TB/*
+add wave -position insertpoint sim:/TB/FFT/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading work.TB(fast)
+# Loading work.FFT(fast)
+# Loading work.SdfUnit(fast)
+# Loading work.Butterfly(fast)
+# Loading work.DelayBuffer(fast)
+# Loading work.Butterfly(fast__1)
+# Loading work.DelayBuffer(fast__1)
+# Loading work.Twiddle(fast)
+# Loading work.Multiply(fast)
+# Loading work.SdfUnit(fast__1)
+# Loading work.DelayBuffer(fast__2)
+# Loading work.DelayBuffer(fast__3)
+# Loading work.SdfUnit(fast__2)
+# Loading work.DelayBuffer(fast__4)
+# Loading work.DelayBuffer(fast__5)
+add wave -position insertpoint sim:/TB/FFT/SU1/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -continue
+run -continue
+# Causality operation skipped due to absence of debug database file
+run
+run
+run
+run
+# ** Note: $finish    : stim.v(29)
+#    Time: 4490 ns  Iteration: 1  Instance: /TB
+# End time: 00:40:40 on Mar 12,2024, Elapsed time: 0:42:18
+# Errors: 0, Warnings: 0

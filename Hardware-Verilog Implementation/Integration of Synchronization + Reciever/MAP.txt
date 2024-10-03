@@ -1,0 +1,31 @@
+Padding Left = 80 points
+
+'input_data_p7.txt'
+SNR = 15
+CFO = 1.2
+RMS ds = 25 ns
+
+'input_data_p8.txt'
+SNR = 15
+CFO = 1.85
+RMS ds = 25 ns
+
+'input_data_p9.txt'
+SNR = 15
+CFO = -1.5
+RMS ds = 30 ns
+
+'input_data_p10.txt'
+SNR = 15
+CFO = 0.3
+RMS ds = 50 ns
+
+'input_data_p11.txt'
+SNR = 15
+CFO = 0.3
+RMS ds = 80 ns
+
+'input_data_p12.txt'
+SNR = 20
+CFO = -1.68
+RMS ds = 25 ns

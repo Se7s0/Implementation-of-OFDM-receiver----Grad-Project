@@ -1,0 +1,277 @@
+{C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/FFT64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/FFT64.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FFT
+
+Top level modules:
+	FFT
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/L_Sync_defines.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/L_Sync_defines.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Mults_Weights_Drive
+
+Top level modules:
+	Mults_Weights_Drive
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/Crodic_TanInv_B_New.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/Crodic_TanInv_B_New.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Cordic_TanInv_B_New
+
+Top level modules:
+	Cordic_TanInv_B_New
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/pilot_null_detector.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/pilot_null_detector.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module pilot_null_detector
+
+Top level modules:
+	pilot_null_detector
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_complex_to_mag.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_complex_to_mag.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module a_complex_to_mag
+
+Top level modules:
+	a_complex_to_mag
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Correlator_Top.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Correlator_Top.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Correlator_Top
+
+Top level modules:
+	Correlator_Top
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/FSM_sync_long_v2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/FSM_sync_long_v2.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FSM_sync_long
+
+Top level modules:
+	FSM_sync_long
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/SdfUnit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/SdfUnit.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SdfUnit
+
+Top level modules:
+	SdfUnit
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_w.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_w.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay_w
+
+Top level modules:
+	delay_w
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/cmult.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/cmult.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cmult
+
+Top level modules:
+	cmult
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/SYN_RESETTER.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/SYN_RESETTER.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SYN_RESETTER
+
+Top level modules:
+	SYN_RESETTER
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_complex_mult.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_complex_mult.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module a_complex_mult
+
+Top level modules:
+	a_complex_mult
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/SYN_SHORT_LONG.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/SYN_SHORT_LONG.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SYNC_SHORT_LONG
+
+Top level modules:
+	SYNC_SHORT_LONG
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Twiddle64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Twiddle64.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Twiddle
+
+Top level modules:
+	Twiddle
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay
+
+Top level modules:
+	delay
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Multiply.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Multiply.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Multiply
+
+Top level modules:
+	Multiply
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem1.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem1.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mem1
+
+Top level modules:
+	mem1
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/tb_sync_short_long.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/tb_sync_short_long.sv}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_sync_short_long
+
+Top level modules:
+	tb_sync_short_long
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem2.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mem2
+
+Top level modules:
+	mem2
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/DelayBuffer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/DelayBuffer.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DelayBuffer
+
+Top level modules:
+	DelayBuffer
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/Count_Detects.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/Count_Detects.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Count_Detects
+
+Top level modules:
+	Count_Detects
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/cordic_vPhaseCorrect.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/cordic_vPhaseCorrect.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cordic_vPhaseCorrect
+
+Top level modules:
+	cordic_vPhaseCorrect
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/ROM_ref.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/ROM_ref.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ROM_ref
+
+Top level modules:
+	ROM_ref
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Correlator_Lsync.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Correlator_Lsync.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Correlator_Lsync
+
+Top level modules:
+	Correlator_Lsync
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/top_dec.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/top_dec.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module top_dec
+
+Top level modules:
+	top_dec
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/ClkDiv.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/ClkDiv.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Find_Max.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Find_Max.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Find_Max
+
+Top level modules:
+	Find_Max
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_n.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_n.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay_n
+
+Top level modules:
+	delay_n
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Phase_Adder_and_Reg.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Phase_Adder_and_Reg.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Phase_Adder_and_Reg
+
+Top level modules:
+	Phase_Adder_and_Reg
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Two_Bit_Com_Mult.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Two_Bit_Com_Mult.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Two_Bit_Com_Mult
+
+Top level modules:
+	Two_Bit_Com_Mult
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_delay_sample.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_delay_sample.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module a_delay_sample
+
+Top level modules:
+	a_delay_sample
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Lsync_Mag_Sq.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Lsync_Mag_Sq.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Lsync_Mag_Sq
+
+Top level modules:
+	Lsync_Mag_Sq
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/address_gen.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/address_gen.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module address_gen
+
+Top level modules:
+	address_gen
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/demod.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/demod.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module demod
+
+Top level modules:
+	demod
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Quantizer_Lsync.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Quantizer_Lsync.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Quantizer_Lsync
+
+Top level modules:
+	Quantizer_Lsync
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/out_mux.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/out_mux.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module out_mux
+
+Top level modules:
+	out_mux
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Butterfly.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Butterfly.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Butterfly
+
+Top level modules:
+	Butterfly
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_pack_decision.v} {2 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_pack_decision.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module a_pack_decision
+** Warning: C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_pack_decision.v(4): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_pack_decision.v(5): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/Moham/Downloads/Integration of sync long and short/Sync Short Files/a_pack_decision.v(24): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+Top level modules:
+	a_pack_decision
+
+} {} {}} {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Load_Done_Counter.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Integration of sync long and short/Sync Long Files/Load_Done_Counter.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Load_Done_Counter
+
+Top level modules:
+	Load_Done_Counter
+
+} {} {}}

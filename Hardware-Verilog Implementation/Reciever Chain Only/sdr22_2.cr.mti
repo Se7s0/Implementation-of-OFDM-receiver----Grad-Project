@@ -1,0 +1,141 @@
+{C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/FFT64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/FFT64.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FFT
+
+Top level modules:
+	FFT
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/top.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/top.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/pilot_null_detector.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/pilot_null_detector.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module pilot_null_detector
+
+Top level modules:
+	pilot_null_detector
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/cmult.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/cmult.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cmult
+
+Top level modules:
+	cmult
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/SdfUnit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/SdfUnit.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SdfUnit
+
+Top level modules:
+	SdfUnit
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_w.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_w.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay_w
+
+Top level modules:
+	delay_w
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_n_cycles.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_n_cycles.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay_n_cycles
+
+Top level modules:
+	delay_n_cycles
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Twiddle64.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Twiddle64.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Twiddle
+
+Top level modules:
+	Twiddle
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay
+
+Top level modules:
+	delay
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem1.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem1.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mem1
+
+Top level modules:
+	mem1
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Multiply.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Multiply.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Multiply
+
+Top level modules:
+	Multiply
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/DelayBuffer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/DelayBuffer.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DelayBuffer
+
+Top level modules:
+	DelayBuffer
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/mem2.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mem2
+
+Top level modules:
+	mem2
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/ROM_ref.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/ROM_ref.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ROM_ref
+
+Top level modules:
+	ROM_ref
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/cmult_p.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/cmult_p.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cmult_p
+
+Top level modules:
+	cmult_p
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_n.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/delay_n.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module delay_n
+
+Top level modules:
+	delay_n
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/address_gen.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/address_gen.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module address_gen
+
+Top level modules:
+	address_gen
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/out_mux.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/out_mux.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module out_mux
+
+Top level modules:
+	out_mux
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Butterfly.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/Butterfly.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Butterfly
+
+Top level modules:
+	Butterfly
+
+} {} {}} {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/demod.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Moham/Downloads/Compressed/r22sdf-master/r22sdf-master/sim/fft_64 - Copy/demod.v}
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module demod
+
+Top level modules:
+	demod
+
+} {} {}}
